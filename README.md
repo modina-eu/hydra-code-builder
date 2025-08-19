@@ -3,13 +3,13 @@ SFDCANBAC-UX
 
 Web demo (via render dot com):
 
-[https://hydra-code-builder.onrender.com]
+https://hydra-code-builder.onrender.com
 
 (Recommended use in Chrome)
 
 Graphical interface to procedurally generate Hydra code via the selection of visual inputs and modifiers; these continuously pass through a neural network, modelled to provide parameter inputs for endless visual manipulation. In turn, the code can be used to alter movements viewed from a live camera feed.
 
-![demo screenshot](https://modina.eu/wp-content/uploads/2025/08/Hydra-Code-Gen-Walkthrough-0001-scaled.jpeg)
+![demo screenshot](https://modina.eu/wp-content/uploads/2025/08/Screenshot-2025-08-19-at-17.25.37-scaled.png)
 
 Code by [naoto hieda](https://naotohieda.com)
 
