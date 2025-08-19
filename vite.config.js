@@ -11,6 +11,9 @@ export default defineConfig(({ command, mode, ssrBuild }) => {
       commonjsOptions: {
       }
     },
+    preview: {
+      allowedHosts: ['hydra-code-builder.onrender.com'],
+    },
     server: {
       host: "0.0.0.0",
       port: 3000,
@@ -26,7 +29,7 @@ export default defineConfig(({ command, mode, ssrBuild }) => {
       define: {
         // fix for hydra-synth
         global: "window"
-      },  
+      },
     }
   } else {
     // command === 'build'
